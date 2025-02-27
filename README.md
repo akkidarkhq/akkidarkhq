@@ -7,3 +7,5 @@
 akkidarkhq/akkidarkhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Certifications  
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/95aloAAvSveJZFLJ9hoePA/image)](https://api.badgr.io/public/assertions/95aloAAvSveJZFLJ9hoePA)
